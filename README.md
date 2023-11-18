@@ -1,7 +1,7 @@
 ***
 <div> 
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=29&center=true&vCenter=true&width=1000&lines=Hello+👋🏾🤓+Friend!!!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=29&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Igor+Viana!;)
 
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0110ed&height=120&section=header"/>
