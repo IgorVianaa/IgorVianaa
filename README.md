@@ -24,7 +24,7 @@
 <div align="left">
     <li>Apaixonado por Tecnologia 👨🏾‍💻</li>
     <li>Em Constante Desenvolvimento 🖳</li>
-    <li>Academico em Analise e Desenvolvimento de Sistemas 👨🏾‍🏫</li>    
+    <li>Acadêmico em Analise e Desenvolvimento de Sistemas 👨🏾‍🏫</li>    
 <div>
 
 </div>
