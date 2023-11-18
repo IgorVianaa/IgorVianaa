@@ -9,7 +9,7 @@
 ***
 
 <br><br>
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=19&center=true&vCenter=true&width=1000&lines= ;)
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=19&center=true&vCenter=true&width=1000&lines=Escreva+aqui;)
 
 <br></br>
 
