@@ -16,13 +16,13 @@
    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
  
  </div>
  
 ***
 
 <div align="left">
-    <li>Apaixonado por Tecnologia 👨🏾‍💻</li>
     <li>Em Constante Desenvolvimento 🖳</li>
     <li>Acadêmico em Analise e Desenvolvimento de Sistemas 👨🏾‍🏫</li>    
 <div>
